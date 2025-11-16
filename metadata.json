@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Magic",
+  "description": "An application that uses the Gemini 2.5 Flash Image model to edit images with text prompts and to transport your photos into various historical scenes in a 'Time-Travel Photo Booth'.",
+  "requestFramePermissions": []
+}
